@@ -1,2 +1,13 @@
-
+# Shivang's .gitignore
 lyrics_archive/NovemberRain.txt
+
+# other gitignore examples
+.DS_Store
+*.ipynb
+.ipynb_checkpoints/
+*.cfg
+*.zip
+*.xlsx
+
+# you can also ignore the entire folder
+data/
